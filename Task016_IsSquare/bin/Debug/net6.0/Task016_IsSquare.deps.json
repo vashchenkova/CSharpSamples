@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task016_IsSquare/1.0.0": {
+        "runtime": {
+          "Task016_IsSquare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task016_IsSquare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
