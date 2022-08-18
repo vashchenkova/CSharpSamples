@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task035_IsTwoDigit/1.0.0": {
+        "runtime": {
+          "Task035_IsTwoDigit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task035_IsTwoDigit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
